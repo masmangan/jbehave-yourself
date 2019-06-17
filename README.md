@@ -5,7 +5,7 @@ This code is a revision of a [JBehave] BDD example available from [Tim Dalton] a
 https://objectcomputing.com/resources/publications/sett/june-2010-jbehave-yourself
 
 The original code is from 2010 and was no building anymore at this time (2019).
-Code and Maven dependencies were updated to allow building with a earlier dependency configuration.
+Code and Maven dependencies were updated to allow building with a more recent dependency configuration.
 
 In order to better understand the example, some [Score Bowling] knowledge is necessary.
 
