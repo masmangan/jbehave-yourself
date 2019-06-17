@@ -11,7 +11,7 @@ Code and Maven dependencies were updated to allow building.
 
 ```
 git clone https://github.com/masmangan/jbehave-yourself.git
-cd jbehave-yourself.git
+cd jbehave-yourself
 cd functionaljava-bowling
 mvn test
 ```
