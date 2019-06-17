@@ -6,3 +6,13 @@ https://objectcomputing.com/resources/publications/sett/june-2010-jbehave-yourse
 
 The original code is from 2010 and was no building anymore.
 Code and Maven dependencies were updated to allow building.
+
+## Running the example
+
+```
+git clone https://github.com/masmangan/jbehave-yourself.git
+cd jbehave-yourself.git
+cd functionaljava-bowling
+mvn test
+```
+
