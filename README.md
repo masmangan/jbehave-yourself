@@ -20,7 +20,6 @@ cd functionaljava-bowling
 mvn test
 ```
 
-## References
 [Tim Dalton]: https://objectcomputing.com/resources/publications/sett/june-2010-jbehave-yourself
 [JBehave]: https://jbehave.org/
 [Score Bowling]: https://www.wikihow.com/Score-Bowling
