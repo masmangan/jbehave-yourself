@@ -1,11 +1,13 @@
 # jbehave-yourself [![Build Status](https://travis-ci.org/masmangan/jbehave-yourself.svg?branch=master)](https://travis-ci.org/masmangan/jbehave-yourself)
 
-This code is a revision of a BDD example available from:
+This code is a revision of a [JBehave] BDD example available from [Tim Dalton] at:
 
 https://objectcomputing.com/resources/publications/sett/june-2010-jbehave-yourself
 
 The original code is from 2010 and was no building anymore at this time (2019).
-Code and Maven dependencies were updated to allow building.
+Code and Maven dependencies were updated to allow building with a earlier dependency configuration.
+
+In order to better understand the example, some [Score Bowling] knowledge is necessary.
 
 ## Running the example
 You need a JDK, git and maven on your local box in order to run the example. 
